@@ -2,7 +2,7 @@
 
 AutoSense AI is an interactive mobile application mockup designed to help drivers diagnose vehicle issues in real-time. Instead of presenting generic automotive advice, it acts as a diagnostic assistant that calculates potential risks, estimates future repair costs, and recommends personalized action plans.
 
-This project was developed as an interactive HTML/JS mockup for the [Insert Course Name] course assignment.
+This project was developed as an interactive HTML/JS mockup for the Web Analytics course assignment.
 
 ## Core Features & Assignment Requirements
 
